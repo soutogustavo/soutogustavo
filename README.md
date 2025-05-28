@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey 👋 I'm Gustavo
 
-<!--
-**soutogustavo/soutogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **GitHub profile**!
 
-Here are some ideas to get you started:
+#### About Me 🙋🏻‍♂️
+A **Data Scientist** with 8+ years of experience delivering actionable insights and data‑driven solutions across industries such as Telematics, Banking,
+and Healthcare. Adept at translating business challenges into robust data strategies through hands‑on coding, advanced machine learning, and
+statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Berlin**  
+📧 **Email:** [ghsouto@gmail.com](mailto:ghsouto@gmail.com)  
+🔗 **LinkedIn:** [soutogustavo88](https://www.linkedin.com/in/gustavosoutods88/)  
+👨‍💻 **GitHub:** [soutogustavo](https://github.com/soutogustavo)
+
+#### Tech Toolbox 🛠️
+- **Languages:** Python, SQL
+- **Frameworks & Libraries:** Scikit-Learn, PySpark, PyTorch, Pandas, Dask, XGBoost, LightGBM
+- **Tools:** AWS, Docker, Git, Databricks.
+- **Visualization:** Seaborn, Plotly/Dash, Streamlit, Tableau
+
+#### Education 🎓
+- **Masters in Electrical and Computer Engineering**, Federal University of Rio Grande do Norte
+- **Bachelors in Computer Networks and Telecommunications**, Universidade Estácio de Sá (FATERN)
+
