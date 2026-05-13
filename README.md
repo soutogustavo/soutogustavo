@@ -9,7 +9,7 @@ statistical modeling.
 
 📍 **Berlin**  
 📧 **Email:** [ghsouto@gmail.com](mailto:ghsouto@gmail.com)  
-🔗 **LinkedIn:** [soutogustavods](https://www.linkedin.com/in/soutogustavods/)
+🔗 **LinkedIn:** [soutogustavods](https://www.linkedin.com/in/soutogustavods/)  
 👨‍💻 **GitHub:** [soutogustavo](https://github.com/soutogustavo)
 
 #### Tech Toolbox 🛠️
